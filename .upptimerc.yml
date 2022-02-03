@@ -9,9 +9,9 @@ sites:
     url: https://blog.baglietto.ar
   - name: Domoticz
     url: https://domoticz.baglietto.ar
-  - name: Test Google-Assistant
+  - name: Google-Assistant
     url: https://settings.baglietto.ar
-  - name: Test Ap-Wifi
+  - name: Ap-Wifi
   url: https://raspap.baglietto.ar
 
 assignnes: 
