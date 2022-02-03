@@ -17,6 +17,7 @@ sites:
 assignnes: 
   - nbaglietto
 status-website:
+   theme: light
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
@@ -30,8 +31,8 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-status-website:
-  theme: light
+
+ 
 
 
 # Upptime also supports notifications, assigning issues, and more
