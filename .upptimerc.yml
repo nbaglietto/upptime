@@ -8,11 +8,11 @@ sites:
   - name: Blog
     url: https://blog.baglietto.ar
   - name: Domoticz
-    url: https://domoticz.baglietto.ar
+    url: $Domoticz
   - name: Google-Assistant
-    url: https://asistente.baglietto.ar
-  - name: Ap-Wifi
-    url: https://raspap.baglietto.ar
+    url: $Google-Assistant
+  - name: ApWifi
+    url: $ApWifi
 
 assignnes: 
   - nbaglietto
